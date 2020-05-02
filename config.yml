@@ -1,0 +1,15 @@
+INDIGO_WELCOME_MESSAGE: "build the right skills, climb up the ladder of success"
+INDIGO_PRIMARY_COLOR: "#0018F9" # cool blue
+
+# Footer links are dictionaries with a "title" and "url"
+# To remove all links, write:
+# INDIGO_FOOTER_NAV_LINKS: []
+# INDIGO_FOOTER_LEGAL_LINKS: []
+INDIGO_FOOTER_NAV_LINKS:
+  - title: "About"
+    url: "http://ekopad.org/page1"
+  - title: "Contact"
+    url: "contact@ekopad.org"
+INDIGO_FOOTER_LEGAL_LINKS:
+    - title: "Privacy Policy"
+      url: "http://ekopad.org/page2"

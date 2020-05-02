@@ -1,0 +1,9 @@
+$primary: {{ INDIGO_PRIMARY_COLOR }};
+
+// Theme fonts
+$font-family-title: Plex;
+$serif: Helvetica;
+$f-sans-serif: Helvetica, 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
+
+// Initialize the Open edX Bootstrap theme
+@import 'edx-bootstrap/sass/open-edx/theme';
